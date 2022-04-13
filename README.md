@@ -1,2 +1,2 @@
-# Simple-web-page
-Simple-web-page
+# simple-web-page
+simple-web-page
